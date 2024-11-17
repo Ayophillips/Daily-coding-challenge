@@ -1,2 +1,2 @@
-# leetcode-daily-challenge
-This is a repository for Leet code challenges i've solved
+# daily-coding-challenges
+This is a repository for daily coding challenges i've solved
